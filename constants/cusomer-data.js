@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+  {
+    productName: "Sing Jon",
+    productNumber: "Goal, 721135",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Son Hue",
+    productNumber: "Fokline, 752011",
+    payment: "Refunded",
+    status: "Declined",
+    statusColor: "danger",
+  },
+  {
+    productName: "Due Rou",
+    productNumber: "Jak, 721135",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Disk Rj",
+    productNumber: "Kanata, 721156",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Kari jam",
+    productNumber: "Kolkara, 712356",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Hue Jone",
+    productNumber: "Goa, 721554",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Khan GG",
+    productNumber: "Mosco, 782154",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+];

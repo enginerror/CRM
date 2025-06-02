@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+  {
+    productName: "RGB keyboard",
+    productNumber: "45286",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Keyboad & Mouse",
+    productNumber: "45821",
+    payment: "Refunded",
+    status: "Declined",
+    statusColor: "danger",
+  },
+  {
+    productName: "Ausus Laptop",
+    productNumber: "45128",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "System computer model",
+    productNumber: "45289",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "RGB Mouse",
+    productNumber: "45863",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Mouse pad",
+    productNumber: "42185",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Monitor LG",
+    productNumber: "12500",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+];
